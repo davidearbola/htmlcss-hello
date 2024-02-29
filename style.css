@@ -6,8 +6,11 @@
 
 body {
     background-color: #5b5b5b;
+    height: 100vh;
 }
 
 h1 {
     color: white;
+    text-align: center;
+    line-height: 100vh;
 }
